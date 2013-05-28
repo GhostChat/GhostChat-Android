@@ -1,4 +1,4 @@
 GhostChat-Android
 =================
 
-The android version of GhostChat.
+The Android version of GhostChat.
